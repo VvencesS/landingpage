@@ -3,6 +3,60 @@
     padding: 0;
 }
 
+.header-right-absolute-3 {
+    position: absolute;
+    margin-left: -43%;
+    margin-top: 17%;
+}
+
+.header-right-absolute-2 {
+    position: absolute;
+    margin-left: -23%;
+    margin-top: -23%;
+}
+
+.header-right-absolute-1 {
+    position: relative;
+}
+
+.header-right-absolute {
+    position: absolute;
+    top: 0;
+    left: 71%;
+}
+
+div#header {
+    position: relative;
+}
+
+div#div-blue {
+    width: 60%;
+    height: 60%;
+    background: #1ea2d4a3;
+    bottom: 0;
+    right: 0;
+    margin-top: 40%;
+    margin-left: 40%;
+}
+
+a.btn.btn-sale {
+    padding: 9px;
+    background: red;
+    color: white;
+}
+
+a.btn.btn-sale:hover {
+    background: #ff00008c;
+}
+
 body {
-    background-color: gray;
+    background-color: #efe4e4cf;
+}
+
+.color-blue {
+    color: #0c1a7b;
+}
+
+.margin-bottom {
+    margin-bottom: 30px;
 }
